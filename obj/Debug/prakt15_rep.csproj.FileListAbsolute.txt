@@ -1,0 +1,9 @@
+C:\Users\305-7\Desktop\Кузнецов Пр-23\prakt15_rep\obj\Debug\prakt15_rep.Form1.resources
+C:\Users\305-7\Desktop\Кузнецов Пр-23\prakt15_rep\obj\Debug\prakt15_rep.Properties.Resources.resources
+C:\Users\305-7\Desktop\Кузнецов Пр-23\prakt15_rep\obj\Debug\prakt15_rep.csproj.GenerateResource.cache
+C:\Users\305-7\Desktop\Кузнецов Пр-23\prakt15_rep\obj\Debug\prakt15_rep.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Кузнецов Пр-23\prakt15_rep\bin\Debug\prakt15_rep.exe.config
+C:\Users\305-7\Desktop\Кузнецов Пр-23\prakt15_rep\bin\Debug\prakt15_rep.exe
+C:\Users\305-7\Desktop\Кузнецов Пр-23\prakt15_rep\bin\Debug\prakt15_rep.pdb
+C:\Users\305-7\Desktop\Кузнецов Пр-23\prakt15_rep\obj\Debug\prakt15_rep.exe
+C:\Users\305-7\Desktop\Кузнецов Пр-23\prakt15_rep\obj\Debug\prakt15_rep.pdb
